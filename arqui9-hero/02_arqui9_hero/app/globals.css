@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+@theme inline {
+  --font-title: var(--font-orbitron-sans);
+  --font-body: var(--font-geist-mono)
+}
+
+body {
+  background : #000000;
+  color: #ffffff;
+}

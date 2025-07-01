@@ -25,6 +25,7 @@ Each folder = 1 complete micro project, ready to study, remix, or deploy.
 | Folder Name | Description |
 |-------------|-------------|
 | `Market-Talent-Landing-Page` | A sleek landing page for a fictional marketing talent platform. Inspired by modern gradient-heavy Dribbble design. |
+`arqui9-hero-page-animation` | A popular hero section and transition animation. Inspired by Awwwards winning "arqui9.com" web design. |
 | *(coming soon)* | More UI recreations dropping weekly. Stay tuned. |
 
 ---
@@ -33,6 +34,7 @@ Each folder = 1 complete micro project, ready to study, remix, or deploy.
 
 - **Next.js 15** (App Router)
 - **Tailwind CSS 3.4+**
+- **Motion**
 - Clean, component-based structure
 - Focused on **real-world UI skills** — not bloated UI kits
 
